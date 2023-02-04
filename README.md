@@ -1,7 +1,7 @@
 # SMSFire ![Build status](https://img.shields.io/badge/SMSFire-V1.3-2ea44f?style=for-the-badge)
 
 <img src="/.assets/logo.png" align="left"
-width="200" hspace="10" vspace="10">NIDbird is an app by which you can check the nid card information of Bangladesh.
+width="200" hspace="10" vspace="10">SMSFire is a free sms bombing app to all phone number of Bangladesh.
 
 SMSFire is available on the [GITHUB](https://github.com/Toxinum/NIDbird)</img>
 <br>
