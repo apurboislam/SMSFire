@@ -3,7 +3,7 @@
 <img src="/.assets/logo.png" align="left"
 width="200" hspace="10" vspace="10">SMSFire is a free sms bombing app to all phone number of Bangladesh.
 
-SMSFire is available on the [GITHUB](https://github.com/Toxinum/NIDbird)</img>
+SMSFire is available on the [GITHUB](https://github.com/apurboislam/SMSFire)</img>
 <br>
 <p align="left">
 <a href="https://github.com/apurboislam/SMSFire/releases/tag/SMSFire_V1.1">
