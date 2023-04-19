@@ -1,4 +1,4 @@
-# SMSFire ![Build status](https://img.shields.io/badge/SMSFire-V1.3-2ea44f?style=for-the-badge)
+# SMSFire ![Build status](https://img.shields.io/badge/SMSFire-V1.1-2ea44f?style=for-the-badge)
 
 <img src="/.assets/logo.png" align="left"
 width="200" hspace="10" vspace="10">SMSFire is a free sms bombing app to all phone number of Bangladesh.
@@ -6,10 +6,10 @@ width="200" hspace="10" vspace="10">SMSFire is a free sms bombing app to all pho
 SMSFire is available on the [GITHUB](https://github.com/apurboislam/SMSFire)</img>
 <br>
 <p align="left">
-<a href="https://github.com/apurboislam/SMSFire/releases/tag/SMSFire_V1.1">
-    <img alt="Get it on GITHUB"
+<a href="https://www.saashub.com/images/app/service_logos/112/8de423380119/large.png?1575510056">
+    <img alt="Get it on ApkFab"
         height="80"
-        src="/.assets/download_github.png" />
+        src="https://www.saashub.com/images/app/service_logos/112/8de423380119/large.png?1575510056" />
 
 ## About
 
@@ -57,4 +57,4 @@ Some of the used libraries are released under different licenses.
 - [ ] EMAIL : (smsfire.support@gmail.com)
 
 ### Ta-Ta 🖐🏼
-#### Don't forget to follow our GitHub, Facebook and give a start on our project ❤️
+**Don't forget to follow our GitHub, Facebook and give a start on our project ❤️**
